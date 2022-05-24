@@ -1,0 +1,16 @@
+Aula | Video | Commit | Link
+------ | ------ | ------ | ------
+Aula 02| 01 | generics | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/a12d01968aba44f25c9daf1cbddff807e2106a98.zip)
+Aula 02| 02 | inducao de tipo | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/b4fe2d30eae153c0e1dbe1b77aa9f9c4289f9212.zip)
+Aula 02| 03/04 | funcao e metodo com generics | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/cfe268a63a1749b43aac7417e4280e9550f0dc6a.zip)
+Aula 02| 05 | map e lista com generics | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/1883da4a9ccfb6a5e2372dd44b98f682dac47364.zip)
+Aula 03 | 05 | enum | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/f10666eabd3f8c2efb582dea3d1af686fe90a080.zip)
+Aula 03 | 06 | extension e on | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/fa57ca2ed0f8f9c831a2f8ab1c0bade2618cba06.zip)
+Aula 03 | 08 | desafio | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/cfdc71fbfcd1b28085feb162674cc0a08032738b.zip)
+Aula 04 | 09 | async await e future | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/d74acd100ee943533ee50b608bdd881ea7df55cc.zip)
+Aula 04 | 10 | Future.forEach | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/b18a3c69101a84ebc658cd180f78e08c5e2eca1b.zip)
+Aula 04 | 11 | Future.wait | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/5990df1bd6452a0a8f58721777c511f3c9cd52c3.zip)
+Aula 05 | 12 | try catch e finally | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/2f18312e76f851f6249d59284581cc9f02dc1bee.zip)
+Aula 05 | 13 | then catchErro e whenComplete | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/0baf7e819147fc7a5a8d1516eac5a39478492311.zip)
+Aula 06 | 14 | factory | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/ba8b1110f71d02f65aeb7af766433727710091bf.zip)
+arquivos txt | [Download](https://github.com/treinaweb/treinaweb-dart-topicos-avancados/archive/e3cd234ea44c26d7908cb08011346cdf594434a4.zip)
